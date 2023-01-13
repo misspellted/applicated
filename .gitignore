@@ -1,0 +1,9 @@
+
+
+# Ignore virtual environments.
+.test/
+
+
+# Ignore compiled/cached Python files.
+__pycache__/
+
